@@ -1,0 +1,2 @@
+# JtRCheatSheet
+JohntheRipper functionalities usage
