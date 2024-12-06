@@ -3,7 +3,7 @@
 This guide is a quick and casual way to leverage the functionality of John the Ripper (JtR) based on practical experience.
 
 ## Helpful Resources
-- [John The Ripper Cheat Sheet](https://countuponsecurity.com/wp-content/uploads/2016/09/jtr-cheat-sheet.pdf)
+- [Comprehensive John The Ripper Cheat Sheet](https://countuponsecurity.com/wp-content/uploads/2016/09/jtr-cheat-sheet.pdf)
 - [Masking Rules in JtR](https://miloserdov.org/?p=5031)
 
 ---
